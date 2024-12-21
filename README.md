@@ -1,4 +1,8 @@
-Результаты выполнения команды:
+1. Вариант с созданием docker image:
+![image](https://github.com/user-attachments/assets/d4f98ef2-5a23-4255-acc9-6937b36c2ad6)
+
+
+2. Вариант с выполнением через одну комаду
 ```bash
 docker run -it --rm --name test_lab2 -v "$PWD":/app -w /app bash:latest ./task8.sh
 ```
