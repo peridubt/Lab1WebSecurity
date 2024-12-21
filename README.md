@@ -9,3 +9,5 @@ docker run -it --rm --name test_lab2 -v "$PWD":/app -w /app bash:latest ./task8.
 ![image](https://github.com/user-attachments/assets/3fd4faab-cfe5-42f6-b93b-6849fb6cabd7)
 
 ![image](https://github.com/user-attachments/assets/2df94b4d-8d84-4b25-89d7-11ca8e37aa36)
+
+![image](https://github.com/user-attachments/assets/3292694a-23c1-4a05-9bf6-26c26ea3005d)
